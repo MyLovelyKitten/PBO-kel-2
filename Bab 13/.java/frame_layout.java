@@ -1,5 +1,5 @@
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import android.appcombat.app.AppCompatActivity;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
