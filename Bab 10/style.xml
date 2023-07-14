@@ -7,6 +7,11 @@
     android:orientation="vertical"
     tools:context="android.tissa.MainActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apakah akan melanjutkan transaksi ini?"/>
+
     <Button
         android:id="@+id/testing_satu"
         android:layout_width="wrap_content"
