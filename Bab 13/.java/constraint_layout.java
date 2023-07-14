@@ -1,6 +1,6 @@
 import android.os.Bundle;
 import android.support.constraint.ConstraintLayout;
-import android.appcombat.app.AppCompatActivity;
+import androidx.appcombat.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.TextView;
 
