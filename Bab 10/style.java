@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity extends AppCompatActivity {
+public class tissa.MainActivity extends AppCompatActivity {
 
     Button button1, button2, button3;
 
